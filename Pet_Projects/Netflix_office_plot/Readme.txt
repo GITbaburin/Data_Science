@@ -1,0 +1,1 @@
+ Plotting several different variables of the Netflix Office dataset, including the episode number, the viewership, the fan rating, and guest appearances. Here are the requirements needed to pass this project:
