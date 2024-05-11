@@ -26,4 +26,4 @@ def detect_and_decode_qr_codes(image_path):
     #cv2.waitKey(0)
     #cv2.destroyAllWindows()
 
-detect_and_decode_qr_codes('D:\mlprod\Data_Science\qr-reader\pid-card-sample-only-latest_orig.png')
+detect_and_decode_qr_codes("PATH_YO_YOUR_QR_CODE")
